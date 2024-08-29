@@ -1,3 +1,4 @@
+package seccion2;
 public class PrimitivosCaracteres {
     public static void main(String[] args) {
 
