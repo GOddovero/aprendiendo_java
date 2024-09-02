@@ -1,4 +1,4 @@
-package seccion2;
+package tiposDeDatos;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

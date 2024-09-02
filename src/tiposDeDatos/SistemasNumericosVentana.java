@@ -1,4 +1,4 @@
-package seccion2;
+package tiposDeDatos;
 import javax.swing.JOptionPane;
 
 public class SistemasNumericosVentana {

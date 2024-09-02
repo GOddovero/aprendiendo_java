@@ -1,4 +1,4 @@
-package seccion3;
+package String;
 
 public class EjemploString {
 

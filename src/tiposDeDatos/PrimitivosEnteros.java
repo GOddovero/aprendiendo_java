@@ -1,4 +1,4 @@
-package seccion2;
+package tiposDeDatos;
 public class PrimitivosEnteros {
     public static void main(String[] args) {
         

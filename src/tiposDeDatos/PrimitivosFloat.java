@@ -1,4 +1,6 @@
-package seccion2;
+package tiposDeDatos
+
+;
 public class PrimitivosFloat {
     public static void main(String[] args) {
 
