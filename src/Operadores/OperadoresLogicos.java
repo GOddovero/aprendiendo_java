@@ -2,6 +2,7 @@ package Operadores;
 
 public class OperadoresLogicos {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         
         int i = 3;
