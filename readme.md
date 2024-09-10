@@ -9,5 +9,5 @@ Luego de un par de años sin tocar Java, me puse como proyecto durante el mes de
 ### 2- String
 ### 3- Operadores
 ### 4- Flujo de Control
-### 5- Clases Wrapper
-### 6- Clases Varias
+### 5- Clases Varias
+
