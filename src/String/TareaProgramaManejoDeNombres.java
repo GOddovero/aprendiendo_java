@@ -1,4 +1,4 @@
-package String;
+package string;
 import java.util.Scanner;
 /*
 Se requiere desarrollar un programa que reciba los nombres de 3 integrantes de tu familia o amigos como argumentos de línea de comandos.

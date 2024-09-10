@@ -1,4 +1,4 @@
-package FlujoDeControl;
+package flujo_de_control;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package Operadores;
+package operadores;
 
 public class OperadorInstanceOfTiposGenericos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ClasesVarias;
+package clases_varias;
 
 public class AutoboxingInteger {
 

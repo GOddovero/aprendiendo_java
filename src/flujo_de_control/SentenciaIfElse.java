@@ -1,4 +1,4 @@
-package FlujoDeControl;
+package flujo_de_control;
 
 public class SentenciaIfElse {
 

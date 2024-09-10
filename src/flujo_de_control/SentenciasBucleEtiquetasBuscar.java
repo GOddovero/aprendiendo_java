@@ -1,4 +1,4 @@
-package FlujoDeControl;
+package flujo_de_control;
 
 public class SentenciasBucleEtiquetasBuscar {
     public static void main(String[] args) {
@@ -13,7 +13,6 @@ public class SentenciasBucleEtiquetasBuscar {
             for(int j = 0; j < maxPalabra; j++) {
                 if (frase.charAt(k++) != palabra.charAt(j)) {
                     continue buscar;
-                    
                     }
                 }
             cantidad++;        

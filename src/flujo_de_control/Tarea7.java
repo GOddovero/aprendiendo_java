@@ -1,4 +1,4 @@
-package FlujoDeControl;
+package flujo_de_control;
 
 import java.util.Scanner;
 
