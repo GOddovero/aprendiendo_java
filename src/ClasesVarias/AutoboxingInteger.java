@@ -19,6 +19,6 @@ public class AutoboxingInteger {
                 suma += i;
         }
     }
-        System.out.println("La suma es: " + suma);
+        System.out.println("La suma es: " + suma );
     }
 }
